@@ -1,5 +1,4 @@
-### :christmas_tree:  I'm here 👋
-A ship in harbor is safe, but that is not what ships are built for.
+🌱 A ship in harbor is safe, but that is not what ships are built for.
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
